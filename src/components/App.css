@@ -1,0 +1,10 @@
+/* Styles go here */
+
+/* the circle of the color that will show on the webapp */
+
+.token{
+  height:150px;
+  width:150px;
+  border-radius:50%;
+  display:inline-block;
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAGA,OACE,YAAY,CACZ,WAAW,CACX,iBAAiB,CACjB,oBACF","file":"main.04c45343.chunk.css","sourcesContent":["/* Styles go here */\n\n/* the circle of the color that will show on the webapp */\n.token{\n  height:150px;\n  width:150px;\n  border-radius:50%;\n  display:inline-block;\n}\n"]}
